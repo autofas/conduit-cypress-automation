@@ -1,5 +1,5 @@
 # Conduit Cypress framework
-Here is an sample Cypress framework built upon the Conduit's Medium clone
+Here is a sample Cypress framework built upon the Conduit's Medium clone
 * Original project: https://github.com/gothinkster/realworld?tab=readme-ov-file
 * The entire automation is done on the online website. You can change the baseUrl to localhost in case you prefer to run the project locally.
 
